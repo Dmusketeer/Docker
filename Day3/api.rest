@@ -1,0 +1,10 @@
+### home page
+GET http://localhost:3000/
+### chat page
+GET http://localhost:3000/chat
+
+POST http://localhost:3000/builder/signup
+
+POST http://localhost:3000/owner/signup
+
+POST http://localhost:3000/owner/login
